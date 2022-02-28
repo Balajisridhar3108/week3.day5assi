@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Draggable2 {
+public class JQUERYDRAGGABLE {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
